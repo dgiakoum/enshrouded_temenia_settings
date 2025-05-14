@@ -42,8 +42,8 @@
     "threatBonus": 1,
     "pacifyAllEnemies": false,
     "tamingStartleRepercussion": "KeepProgress",
-    "dayTimeDuration": 3600000000000,
-    "nightTimeDuration": 120000000000,
+    "dayTimeDuration": 1800000000000,
+    "nightTimeDuration": 720000000000 ,
     "curseModifier": "Normal"
   },
   "userGroups": [
